@@ -12,7 +12,7 @@
 <!--  <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-green?&logo=Android-Studio&logoColor=green" /> -->
 </p>
 
- - 🌱 I’m currently learning **Elixir**
+ - 🌱 I’m currently learning **Swift**
  
 
 <br/>
@@ -30,14 +30,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="java" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="java" width="20" height="20"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="ruby" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="ruby" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="ruby" width="20" height="20"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="ruby" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="java" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ruby" width="20" height="20"/>
-<img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="20" height="20"/>
+<!-- <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="20" height="20"/> -->
 </p>
 
 <h3 align="left">Framework:</h3>
@@ -48,10 +48,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="php" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="php" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="php" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="php" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="php" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="php" width="20" height="20"/> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="php" width="20" height="20"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="php" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="php" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="php" width="20" height="20"/> -->
  
 </p>
 
