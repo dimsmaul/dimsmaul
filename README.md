@@ -17,40 +17,40 @@
 
 <br/>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimsmaul&show_icons=true&theme=github_dark" alt="dimsmaul" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimsmaul&show_icons=true&theme=github_dark" alt="dimsmaul" /> -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasmaulana-ach&locale=en&theme=github_dark" alt="dimasmaulana-ach" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimsmaul&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="dimsmaul" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimsmaul&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="dimsmaul" /> -->
 </p>
 
 
 <h3 align="left">Language:</h3>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="java" width="20" height="20"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="ruby" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="ruby" width="20" height="20"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="ruby" width="20" height="20"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="ruby" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="ruby" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="java" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ruby" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ruby" width="20" height="20"/> -->
 <!-- <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="20" height="20"/> -->
 </p>
 
-<h3 align="left">Framework:</h3>
+<!-- <h3 align="left">Framework:</h3> -->
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="php" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="php" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="php" width="20" height="20"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="php" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="php" width="20" height="20"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="php" width="20" height="20"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="php" width="20" height="20"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="php" width="20" height="20"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="php" width="20" height="20"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="php" width="20" height="20"/> -->
  
 </p>
