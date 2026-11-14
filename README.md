@@ -12,7 +12,7 @@
 <!--  <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-green?&logo=Android-Studio&logoColor=green" /> -->
 </p>
 
- - 🌱 I’m currently learning **Go**
+ - 🌱 I’m currently learning **ML**
  
 
 <br/>
